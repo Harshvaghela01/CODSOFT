@@ -1,9 +1,9 @@
 # CODSOFT
-CODSOFT internship 25 November - 25 DECEMBER
+CODSOFT internship 25 NOVEMBER - 25 DECEMBER
 
 
 #PORTFOLIO
-https://65840c9056d734d1fbd1a2ac--tangerine-granita-1e342c.netlify.app/
+https://myportfolioharshvaghela.netlify.app/
 
 #NETFLIX LANDING PAGE
 https://65840cea58d63ad22d20bae6--ephemeral-platypus-695b22.netlify.app/
