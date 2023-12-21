@@ -1,6 +1,16 @@
 # CODSOFT
 CODSOFT internship 25 November - 25 DECEMBER
 
+
+#PORTFOLIO
+https://65840c9056d734d1fbd1a2ac--tangerine-granita-1e342c.netlify.app/
+
+#NETFLIX LANDING PAGE
+https://65840cea58d63ad22d20bae6--ephemeral-platypus-695b22.netlify.app/
+
+#CALCULATOR
+https://whimsical-biscochitos-27ad72.netlify.app/
+
 CODSOFT Internship Projects
 Welcome to the GitHub repository encapsulating the outcomes of my one-month internship at CODSOFT, where I took on Level 1 tasks, successfully delivering three distinct projects that reflect my evolving skills in web development.
 
